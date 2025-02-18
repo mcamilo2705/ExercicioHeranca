@@ -10,18 +10,20 @@
 //- Criar um método que exiba o salário total (`Salario + Bonus`).
 
 
-using System.Runtime.InteropServices;
 
-Funcionario f = new Funcionario();
-f.Nome = "Marcos";
-f.Salario = 1000;
-f.ExibirDados();
+
+//Funcionario f = new Funcionario();
+//f.Nome = "Marcos";
+//f.Salario = 1000;
+//
 
 Gerente gerente = new Gerente();
 gerente.Nome = "Marcos";
 gerente.Salario = 1000;
-gerente.ExibirSalarioTotal();
 gerente.Bonus = 500;
+gerente.ExibirDados();
+gerente.ExibirSalarioTotal();
+
 
 //double calc = gerente.Salario + gerente.Bonus;
 
@@ -46,6 +48,6 @@ public class Gerente : Funcionario
 
     public void ExibirSalarioTotal()
     {
-        Console.WriteLine(Salario + Bonus); 
+        Console.WriteLine("Valor do salario + bonus: " + (Salario + Bonus)); 
     }
 }

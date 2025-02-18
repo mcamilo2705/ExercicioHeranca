@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FIC\\source\\repos\\ExercicioHeranca\\ExercicioHeranca.csproj": {}
+    "C:\\Users\\FIC\\Downloads\\ExercicioHeranca\\ExercicioHeranca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FIC\\source\\repos\\ExercicioHeranca\\ExercicioHeranca.csproj": {
+    "C:\\Users\\FIC\\Downloads\\ExercicioHeranca\\ExercicioHeranca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FIC\\source\\repos\\ExercicioHeranca\\ExercicioHeranca.csproj",
+        "projectUniqueName": "C:\\Users\\FIC\\Downloads\\ExercicioHeranca\\ExercicioHeranca.csproj",
         "projectName": "ExercicioHeranca",
-        "projectPath": "C:\\Users\\FIC\\source\\repos\\ExercicioHeranca\\ExercicioHeranca.csproj",
+        "projectPath": "C:\\Users\\FIC\\Downloads\\ExercicioHeranca\\ExercicioHeranca.csproj",
         "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FIC\\source\\repos\\ExercicioHeranca\\obj\\",
+        "outputPath": "C:\\Users\\FIC\\Downloads\\ExercicioHeranca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
